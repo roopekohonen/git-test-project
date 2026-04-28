@@ -1,1 +1,1 @@
-print("taas mennään")
+print("taas sitä mennään")
